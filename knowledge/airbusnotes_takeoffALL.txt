@@ -1,0 +1,146 @@
+Two takeoff profiles.Note:Rolling takeoffs are normal,expected and will meet all
+performance requirements.
+Crew will use the Normal Takeoff Profile (NADP 2)except when specifically
+required to use the Noise Abatement Profile (NADP 1).
+NADP 2 will indicate LVR CLB(set thrust levers to CLB)at 1000 feet AFL and
+will adjust pitch to accelerate to 250 or as set.
+NADP 1 will indicate LVR CLB (set thrust levers to CLB)at 1500 feet AFL but will
+maintain pitch to hold V2+10 until 3000 feet AFL,then it will lower pitch to
+accelerate to 250 or as set.
+Make your flight instructor happy!:When setting power for takeoff,the thrust
+levers should be set to 50%N1(CFM)or 1.05 EPR(IAE)on the TLA(doughnut)
+and once both engines stabilize then position both levers to FLEX or TOGA.
+Make an initial setting on the thrust levers and then adjust on the TLA to 50%or
+1.05 EPR.Set takeoff thrust by 40 kts.(OM 2d.1.2)
+Make your flight instructor happy!:If not a rolling takeoff release the brakes
+once the initial 50%or 1.05 EPR is set.If you go to full takeoff power before
+releasing the brakes it will be a rather abrupt jolt that you and your passengers
+won't like!This is a jet not a little prop plane!
+Note:Allow at least 5 minutes for engine warm up before applying takeoff thrust
+for first flight of day.After first flight of day use a minimum of 3 mins.warm up if
+engine is shut down 1 hrs.or less.
+Do not use aileron into the wind during a crosswind (AOM I 6.1.1).During a
+takeoff with crosswind component exceeding 20 kts.or tailwind apply full forward
+sidestick to be taken out by 80 to 100 kts.During all normal takeoffs use half
+forward sidestick pressure until 80 to 100 kts.Ensure the aileron is neutralized by
+looking at the "control pointer cross"on the PFD or relax the sidestick to center
+during the takeoff roll.This will ensure that you do not have any roll in the initial
+rotation and liftoff.During crosswind takeoff let engines stabilize at(CFM)50%
+then increase to 70%N1 and above 15 kts ground speed increase to FLEX or
+TOGA by 40 kts.ground speed or(IAE)1.05 EPR and stabilize,then increase to
+FLEX or TOGA by 40 kts.ground speed.Slowly release any rudder being held
+during crosswind takeoff during the rotation.By liftoff you should have rudder
+neutral during a crosswind takeoff.
+Airbus Gotcha:If on taxi out you do not have the V speeds showing in your
+PFD (after entry in MCDU),make sure that your Flight Director is turned on.
+Note:If no FLEX temp is set(TOGA)and thrust levers are set to FLEX on takeoff
+the thrust will go to TOGA at 80 kts.This is to avoid an underperformance
+takeoff.
+On takeoff,PF should have the PERF-TAKEOFF page,PM the F-PLN page
+Use a radar tilt of 5-8 UP if radar required during takeoff.
+When required set a departure heading for selection at 400'.Note:set the
+heading you will need at 400'.If you are using a SID departure where NAV is
+required NAV mode will engage at 30'automatically,do not set a heading for
+NAV departure.
+Use ARC or ROSE NAV on takeoff on your EFIS ND settings.Do not fly around
+in PLAN.Only use PLAN as a momentary reference in-flight.
+Captain makes all takeoffs when visibility is less than either 1600 RVR or mile
+visibility if no RVR reported.
+On takeoff the aircraft will "blend"from direct to normal law as it goes from
+ground mode to flight mode.This means that the backpressure that you need to
+hold the nose up will reduce to zero once normal law autotrim activates.You will
+usually not really notice this change as the aircraft will be climbing quickly but
+you will learn to release the backpressure around 100 to 200 ft.as the trim kicks
+in or the nose will "balloon".A good Airbus pilot quickly learns to minimize input
+as many times the pilot is inducing a slight amount of sidestick pressure without
+realizing it.Remember,the less input on the stick the better.You don't want to
+'confuse"the computers (or the pilot!).
+New Airbus pilots tend to get into the habit of "slapping"the Thrust Levers back
+from TOGA or FLX/MCT to the CL detent.This isn't the best technique and can
+be very noticeable in back to the passengers and harder on the engines when
+using TOGA or minimal FLEX reductions.When the FLEX temp is around 60
+there will be little or no power reduction when coming out of FLX/MCT to CL and
+this is why pilots get used to just "slapping"the levers back.At TOGA or less
+FLEX the immediate reduction is very noticeable.Ease the thrust levers back
+from FLX/MCT or TOGA to the CL detent slowly just as you would on any other
+aircraft.Your passengers and engines will appreciate it!
+RTO-Rejected Takeoff(AOM 6.4)
+ECAM will inhibit all warnings/cautions that are not paramount from 80 kts.to
+1500'AGL.All rejects done by captain.
+>
+The captain calls "Reject,My Aircraft"
+F/O calls "Your Aircraft"(if control transferred)
+Thrust Levers idle (when the thrust levers go to idle the ground spoilers
+extend,which then trigger the autobrakes,ensure maximum braking)
+>
+Select Full Reverse
+>F/O call(f applicable)“Single Reverse”or“No Reverse”
+F/O monitor autobrakes,call "Autobrakes OFF"if they do not engage or
+when they are disengaged
+>
+F/O notify tower
+>F/O call“80
+>F/O call“60”
+Maintain slight forward pressure on sidestick
+>Stop aircraft
+If evacuation NOT IMMEDIATELY required -Capt.inform passengers
+and flight attendants "This is the captain,remain seated",etc.
+>
+If evacuation IMMEDIATELY required Call for QRH Evacuation
+procedure.
+After Reject consider:
+>Aircraft condition
+Clear the runway if helpful (if autobrakes MAX used,release brakes by
+disarming spoilers)
+Passenger evacuation or not
+Hot Brakes-(OM 6.4.6)AML entry and maintenance action is required if:
+>150C difference in brake temps on the same strut and one brake 600 or
+greater or60°or less
+a mean 200C difference between different trucks
+fuse plug melted
+>brake temp exceeds900°C(800°-A321)
+Note:If necessary,maximum reverse may be used until aircraft comes to
+complete stop.Also,if aircraft comes to full stop with Autobrakes you must
+disarm the spoilers to taxi.
+Note:Autobrakes will not activate below 72 kts.
+Max Rate of Climb:(AOM 7.3.4)
+A319:260KIAS/.76M
+A320:260KIAS/.76M
+A321:280KIAS/.76M
+Max Climb Angle:Slow to Green Dot Speed with OP CLB.EXPED climb pb will
+give maximum climb angle by applying maximum climb thrust and controlling
+speed to down to green dot.Note:EXPED pb can produce a rapid change and is
+not intended for routine use.Use above FL 250 should be avoided.
+V1 Cuts (AOM 6.5)
+Pick a line and stick to it no matter what on every takeoff.You will find that you
+will just naturally put in the correct rudder for V1 cuts if you practice this on every
+takeoff.You don't have to hit the centerline lights but stay right on the centerline.
+You should have the aircraft already stabilized with rudder before rotation
+(assuming the cut is before the Rotate call).Bring the nose up to 12.5(park it on
+the 12.5"shelf")and hold it.Then follow the flight director.The only real Gotcha
+here is that the aircraft takes off in Direct mode.It will then blend to Normal.This
+means that you will have autotrim kicking in just after takeoff.Remember in direct
+you will be holding back pressure to keep the nose at 12.5 until Normal law with
+autotrim comes in and then you will need to release the back pressure on the
+sidestick.In fact this is what happens on every takeoff.Be sure that you don't try
+to trim off the rudder so quickly that you are diverted from flying during the blend
+from direct to normal as the trim coming in will cause you to pitch up if you aren't
+watching for it.Since technically the autopilot can be put on at 100'some folks try
+to show how good they are and start trimming rudder right away.Better to wait
+until the blend is complete around a few hundred feet first and then trim the
+rudder and then get it on autopilot.You don't get any bonus points for a quick
+rudder trim while losing speed and pitch control!
+Note:If taking off in FLEX the PF has the discretion to leave thrust levers in
+FLEX or to increase to TOGA.If aircraft is heavy,runway is short,aircraft must
+be maneuvered for obstacle clearance,aircraft is on fire or has other time critical
+problem pilot should consider using TOGA if not already selected.Thrust should
+be increased to TOGA in a slow,deliberate manner in order to not destabilize the
+situation.You may do this while on the runway.If airborne it is best to do this
+once on autopilot.If increasing to TOGA while airborne do it while on autopilot
+and below 1000 ft and still climbing.Once level you should only reduce from
+FLEX to CL and then back to MCT.
+Note:If thrust levers are left in FLEX during engine out takeoff then they must be
+positioned to CLB or TOGA and reset back to MCT(same detent as FLEX)when
+engine out procedures call for reduction to MCT.This is due to the fact that the
+same detent is used for FLEX and MCT.By selecting from FLEX to CL or TOGA
+and then back to the MCT detent the logic is satisfied for the FMGC.

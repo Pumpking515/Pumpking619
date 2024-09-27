@@ -1,0 +1,19 @@
+Landing
+Note: these are my personal tips and not necessarily procedures.
+Bring thrust levers back to idle at about 20' in normal conditions. In gusty
+condition you may want to carry thrust longer. In gusty conditions I use 1o' to go
+to idle. The aircraft has plenty of airspeed and energy with managed speed being
+flown and you will not need to delay thrust reduction to ensure proper flare in
+normal conditions. Don't let nose drop when normal nose down pitch is added at
+50' in flare mode. I was used to flying smaller (and shorter geared!) jets and
+found it helpful to move my aim point on the runway from the 1000' marker to
+halfway between the 1000' and 1500'. Try to have the flare started by the 10' call.
+Do not carry thrust to the flare as the autothrust will begin to command climb
+thrust as speed deteriorates if you do not bring back idle. This will cause a “thrust
+bump"” that will have you floating down the runway with excess energy.
+On touch down use positive nose down to lower the nose. Be careful not to let
+the nose ride up when reverse is selected. Select Full Reverse as you lower
+nose. As the aircraft slows through 80 knots slowly push the thrust levers back
+toward idle reverse so as to be at or near idle reverse at 6o knots. Be sure you
+push the thrust lever all the way back through the detent into forward idle. Then
+retard the lever again against the stop to ensure minimum forward thrust in idle.

@@ -1,0 +1,89 @@
+Landing
+Note: these are my personal tips and not necessarily procedures.
+Bring thrust levers back to idle at about 20' in normal conditions. In gusty
+condition you may want to carry thrust longer. In gusty conditions I use 1o' to go
+to idle. The aircraft has plenty of airspeed and energy with managed speed being
+flown and you will not need to delay thrust reduction to ensure proper flare in
+normal conditions. Don't let nose drop when normal nose down pitch is added at
+50' in flare mode. I was used to flying smaller (and shorter geared!) jets and
+found it helpful to move my aim point on the runway from the 1000' marker to
+halfway between the 1000' and 1500'. Try to have the flare started by the 10' call.
+Do not carry thrust to the flare as the autothrust will begin to command climb
+thrust as speed deteriorates if you do not bring back idle. This will cause a “thrust
+bump"” that will have you floating down the runway with excess energy.
+On touch down use positive nose down to lower the nose. Be careful not to let
+the nose ride up when reverse is selected. Select Full Reverse as you lower
+nose. As the aircraft slows through 80 knots slowly push the thrust levers back
+toward idle reverse so as to be at or near idle reverse at 6o knots. Be sure you
+push the thrust lever all the way back through the detent into forward idle. Then
+retard the lever again against the stop to ensure minimum forward thrust in idle.
+
+Flaps 3 landings will tend to float more than Flaps Full. Be very careful when
+using Flaps 3 on shorter runways that you ensure touch down in a timely
+manner. Aircraft seems to level out in flare with Flaps 3 more quickly than with
+Flaps Full. Use a more “subtle"” flare with Flaps 3 than with Flaps Full.
+PM should make “Pitch" callout if the nose is at 10° or higher (A319, A320) or
+7.5° (A321) during flare. Note that some aircraft had an automated PITCH callout
+installed. PM should make “Bank" callout if bank reaches 7°.
+
+Crosswind Landings-Despite rumors,the Airbus uses conventional crosswind
+landing technique.Two points however;first,as the Airbus uses roll rate for the
+ailerons the pilot cannot HOLD the sidestick in the crossed control position.The
+sidestick must be released once the bank angle is established.Think of
+"bumping"in the needed bank.It is more intuitive than it sounds!Second,the
+sidestick is as sensitive in the flare as in cruise.Care must be taken to use
+measured inputs to the sidestick.The OM recommends aligning the aircraft with
+the runway centerline during the flare with the rudder.I normally use about 30 ft.
+to start aligning the nose.Be gentle with the rudder,it won't take much!Maintain
+the aircraft on the centerline with roll control.Release all roll input when the
+aircraft is on the ground.Autobrakes are required for crosswind component of 10
+kts.or more.Recommend autobrakes for "short,wet,cross,cat"-Short runway,
+wet or contaminated,crosswind and CAT Il/III
+
+A persistent myth is that the Airbus will blend back to direct law during the flare
+mode.This is not completely true.The aircraft remains in normal law but normal
+law has a flare mode that begins at 50'.At 50'it takes a "snapshot"and the adds
+adds a pitch down at 30'.The pitch mode will change to a direct stick to elevator
+mode with some "damping"for load.Why do they add this pitch down?It is just to
+add an artificial feel of nose heaviness.Autotrimming is disabled in Flare mode.If
+autotrim was not turned off for the flare autotrim would just trim off your flare.
+Then you would balloon and pitch over,it would retrim and you would start all
+over again.So the pitch over is to give you an artificial back pressure to feel
+during the flare and Autotrim is turned off to prevent you getting into a situation of
+"chasing"the pitch.This will give more direct control to pitch but it is not a full
+blend back to direct.You will go to direct once you are on the ground.
+
+Another common problem is that some folks will reduce the power very slowly.
+However,remember that autothrust is active until the thrust levers are all the way
+to idle(assuming autothrust is already active).So once you bring the thrust
+levers out of the Climb detent you aren't actually reducing thrust until the levers
+get all the way back to where autothrust has them commanded.You will only be
+limiting the amount of thrust that can be commanded.If you bring the levers back
+slowly you are only reducing the maximum amount that can be commanded but
+not actually reducing the thrust until you get them very far back.If you wait too
+long you get the thrust bump we just talked about as autothrust is still trying to
+maintain the speed.
+
+In gusty conditions don't be afraid to use the full throw of the sidestick!In normal
+smooth air the stick can be very sensitive to slight pressures and is easy to
+overcontrol.However,in gusty conditions you may need to use full throw of the
+sidestick.You can always take it back out if you don't need all of it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
